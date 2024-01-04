@@ -9,3 +9,4 @@ A random assortment of websites. Putting it here so I don't forget 'em.
 - [Google Javascript Convention](https://google.github.io/styleguide/jsguide.html)
 - [Reactive Programming Introduction](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [Programmer Websites Index](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#everything-in-one-place)
+- [Codewars](https://www.codewars.com/)
